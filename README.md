@@ -1,6 +1,6 @@
 # hadoop-cluster-docker
 
-BASE use Alpine linux & Java 1.8.0_112-b15 & Hadoop-2.7.2
+BASE by Alpine linux & Java 1.8.0_112-b15 & Hadoop-2.7.2
 
 Source of echochio/hadoop
 
